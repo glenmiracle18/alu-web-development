@@ -1,0 +1,28 @@
+
+main {
+  flex: auto;
+  display: flex;
+  flex-direction: row;
+}
+
+article {
+  background-color: red;
+  flex: 2;
+  overflow-y: auto;
+}
+
+aside {
+  background-color: aqua;
+  flex: 1;
+  overflow-y: auto;
+}
+
+.logo {
+  font-size: 50px;
+}
+/* span {
+  float: right;
+} */
+
+
+
