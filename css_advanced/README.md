@@ -10,6 +10,8 @@ How to compute CSS Specificity Value
 What are Box properties in CSS
 How does the browser load a webpage
 
-<html>
-  <img src"prototype.jpeg" alt="prototype">
-</html>
+![Alt text](relative%20prototype.jpeg?raw=true "Title")
+<p align="center">
+  <img src="prototype.jpeg" width="350" title="hover text">
+  <img src="prototype.jpeg" width="350" alt="accessibility text">
+</p>
