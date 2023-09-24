@@ -9,3 +9,7 @@ What is a selector
 How to compute CSS Specificity Value
 What are Box properties in CSS
 How does the browser load a webpage
+
+<html>
+  <img src"images/prototype" alt="prototype">
+</html>
